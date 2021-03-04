@@ -6,5 +6,7 @@
   function sum(a,b) {
     return a + b;
   }
+  
 6.	...
 7.	htmlacademy.ru
+8. A2
