@@ -1,7 +1,15 @@
-div {
+main {
     width: 500px;
     margin: auto;
 }
 img {
     width: 200px;
 } 
+
+header {
+    margin-left: 100px;
+}
+
+footer {
+    margin-left: 100px;
+}
